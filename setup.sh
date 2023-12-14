@@ -129,4 +129,8 @@ first-setup-ubuntu() {
 }
 
 # Execute the first setup
-first-setup-ubuntu
+#first-setup-ubuntu
+configure-proxy-docker
+configure-proxy-apt
+configure-proxy-environment
+configure-proxy-bashrc
